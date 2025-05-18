@@ -33,6 +33,12 @@ This extension does not collect or store any personal data. All operations are d
 
 If you find a bug or want to suggest a feature, feel free to open an issue or submit a pull request.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ⸻
 
 Made with ❤️ by Ritanshu
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ritanshu?style=social)](https://x.com/ritanshu675)
