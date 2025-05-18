@@ -2,7 +2,7 @@
 
 A simple Chrome extension that lets you highlight any text on a webpage and instantly search it on LinkedIn using the right-click context menu.
 
-![LinkedIn Highlight Search Screenshot](assets/screenshot.png)
+<img src="assets/screenshot.png" alt="LinkedIn Highlight Search Screenshot" height="400"/>
 
 ## 🚀 Features
 
