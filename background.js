@@ -10,7 +10,7 @@ chrome.runtime.onInstalled.addListener(() => {
     if (info.menuItemId === "linkedinSearch") {
       const selectedText = info.selectionText;
       const query = encodeURIComponent(selectedText);
-      const url = `https://www.linkedin.com/search/results/people/?keywords=${query}`;
+      const url = `https://www.linkedin.com/search/results/all/?keywords=${query}`;
       chrome.tabs.create({ url });
     }
   });
